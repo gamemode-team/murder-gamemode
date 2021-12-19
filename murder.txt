@@ -1,0 +1,7 @@
+"murder"
+{
+    "base" "base"
+    "title" "Murder"
+    "category" "other"
+    "menusystem" "1"
+}
